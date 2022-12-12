@@ -1,0 +1,11 @@
+#email:valid {
+  border-color: green;
+}
+#email:invalid {
+  border-color: red;
+}
+
+label {
+  display: inline-block;
+  width: 200px;
+}
